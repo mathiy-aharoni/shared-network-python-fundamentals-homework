@@ -1,12 +1,12 @@
 """
 Project: Leet code exercises
-Description: LeetCode is a popular platform used by software engineers to 
-             practice technical coding challenges and prepare for job 
-             interviews. It helps developers sharpen their logic, understand 
-             data structures, and improve algorithmic efficiency.
+LeetCode is a popular platform used by software engineers to 
+practice technical coding challenges and prepare for job 
+interviews. It helps developers sharpen their logic, understand 
+data structures, and improve algorithmic efficiency.
 
-             This file contains a few foundational exercises to help you 
-             get started with the LeetCode style of thinking.
+This file contains a few foundational exercises to help you 
+get started with the LeetCode style of thinking.
 """
 
 # --- Roman Nomarls ---

@@ -1,6 +1,6 @@
 """
 Project: Len's Slice
-Description: Organizing pizza sales data using Python lists.
+Organizing pizza sales data using Python lists.
 """
 
 # --- Make Some Pizzas ---
